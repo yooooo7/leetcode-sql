@@ -6,3 +6,4 @@
 - [601. Human Traffic of Stadium [体育馆的人流量]](./answers/601.sql)
 - [175. Combine Two Tables [组合两个表]](./answers/175.sql)
 - [176. Second Highest Salary [第二高的薪水]](./answer/176.sql)
+- [196. Delete Duplicate Emails [删除重复的电子邮箱]](./answer/196.sql)
