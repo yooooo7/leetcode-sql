@@ -8,3 +8,4 @@
 - [176. Second Highest Salary [第二高的薪水]](./answers/176.sql)
 - [196. Delete Duplicate Emails [删除重复的电子邮箱]](./answers/196.sql)
 - [1098. Unpopular Books](./answers/1098.sql)
+- [579. [查询员工的累计薪水]](./answers/579.sql)
